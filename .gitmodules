@@ -5,6 +5,6 @@
 	branch = HEAD
 [submodule "irtawsi"]
 	path = irtawsi
-	url = https://github.com/cran/irtawsi
+	url = https://github.com/susantohp/irtawsi
 	shallow = true
 	registered = true
